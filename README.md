@@ -1,4 +1,4 @@
-# Statistics & Data Science Student @ UCLA
+# Statistics Student @ UCLA
 
 ### Work Experience
 
