@@ -8,7 +8,7 @@ Tools: Jupyter, VS Code, Git, Tableau, PowerBI, SAS, Excel
 Languages: Python, R, SQL 
 
 ### Education 
-- B.S., Statistics & Data Science | University of California, Los Angeles (June 2026)
+B.S., Statistics & Data Science | University of California, Los Angeles (June 2026)
 
 ### Work Experience  
 **Data Science Intern @ Liberty Mutual Insurance (June 2024 - August 2024)**  
