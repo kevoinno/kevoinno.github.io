@@ -1,8 +1,12 @@
 ## Welcome!
-Hi, I'm Kevin, a 3rd statistics & data science major at UCLA. I'm interested in gaining experience in running and analyzing experiments and causal inference. 
+Hi, I'm Kevin, a 3rd Statistics & Data Science major at UCLA. I'm interested in gaining experience in running and analyzing experiments and applying causal inference techniques. 
+
+### Technical Skills
+Tools: Jupyter, VS Code, Git, Tableau, PowerBI, SAS, Excel
+Languages: Python, R, SQL 
 
 ### Education 
-B.S., Statistics & Data Science | University of California, Los Angeles (June 2026)
+- B.S., Statistics & Data Science | University of California, Los Angeles (June 2026)
 
 ### Work Experience  
 **Data Science Intern @ Liberty Mutual Insurance (June 2024 - August 2024)**  
