@@ -21,5 +21,9 @@ rates from a small sample size using Python.
 - Built a SQL query that joined Safeco Prospecting Program data from a vendor with Liberty Mutual’s quote and issue
 data using fuzzy-matching techniques, identifying 109 more prospects compared to the previous method.  
 
-### Projects
-Will add later
+### Projects  
+[DrakeRecs](https://github.com/kevoinno/drake-recommendations)  
+Web app that recommends Drake songs to users based on Drake songs that they already like.  
+
+[Youtube Video Analytics](https://github.com/kevoinno/youtube-analytics)  
+Web app that displays basic statistics about trending YouTube videos. Automated a script that updates and displays data (not active anymore).
