@@ -22,6 +22,9 @@ rates from a small sample size using Python.
 data using fuzzy-matching techniques, identifying 109 more prospects compared to the previous method.  
 
 ### Projects  
+[In Progress: TicketTrail](https://github.com/kevoinno/concert-prices)  
+A website that will help me and users save money on concert tickets! Users will be able to track specific concerts and see the historical prices of that concert. Then there will be some predictive modeling to suggest to the users when it is a good time to buy the tickets.
+
 [DrakeRecs](https://github.com/kevoinno/drake-recommendations)  
 Web app that recommends Drake songs to users based on Drake songs that they already like.  
 
