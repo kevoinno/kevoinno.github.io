@@ -4,8 +4,8 @@ Hi, I'm Kevin, a 3rd Statistics & Data Science major at UCLA. I'm interested in 
 Contact me at kevoinngo@g.ucla.edu
 
 ### Technical Skills
-Tools: Jupyter, VS Code, Git, Tableau, PowerBI, SAS, Excel  
-Languages: Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), R, SQL, SAS
+**Tools:** Jupyter, VS Code, Git, Tableau, PowerBI, SAS, Excel  
+**Languages:** Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), R, SQL, SAS
 
 ### Education 
 B.S., Statistics & Data Science | University of California, Los Angeles (June 2026)
