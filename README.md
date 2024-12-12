@@ -1,5 +1,5 @@
 ## Welcome!
-Hi, I'm Kevin, a 3rd Statistics & Data Science major at UCLA. I'm interested in gaining experience in running and analyzing experiments and applying causal inference techniques. 
+Hi, I'm Kevin, a 3rd year Statistics & Data Science major at UCLA. I'm interested in gaining experience in running and analyzing experiments and applying causal inference techniques. 
 
 Contact me at kevoinngo@g.ucla.edu
 
