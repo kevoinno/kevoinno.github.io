@@ -1,7 +1,7 @@
 ## Welcome!
 Hi, I'm Kevin, a 3rd year Statistics major at UCLA. I'm interested in gaining experience in running and analyzing experiments and applying causal inference techniques to drive important decisions in product and marketing. 
 
-Contact me at kevoinngo@ucla.edu
+Contact me at kevoinngo [at] ucla [dot] edu
 
 ### Technical Skills
 **Tools:** Jupyter, VS Code, Git, Tableau, PowerBI, SAS, Excel  
