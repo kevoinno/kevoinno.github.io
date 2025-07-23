@@ -15,9 +15,6 @@ B.S. Statistics & Data Science | University of California, Los Angeles (June 202
 **Data Analyst Intern @ Capital One (Jun 2025 - Present)**
 - Services Data & Decisioning Team
 
-**Course Assistant for "The Science of Why: Causal Inference for Public Health" (Jun 2025 - Present)**
-- Develop and clarify key concepts for an undergraduate causal inference course for ~40 students
-
 **Undergraduate Research @ UCLA Fielding School of Public Health (March 2025 - Present)**
 - Built the first ever comprehensive dataset of 2M+ alcohol retailers around the U.S. to be used in a CDC-funded project evaluating the causal effect of the alcohol use on firearm violence
 - Reduced data cleaning time from 3 days to 1 hour per state by designing R scripts to process raw alcohol retailer data using regex expressions and dplyr
