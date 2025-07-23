@@ -1,23 +1,29 @@
 ## Welcome!
-Hi, I'm Kevin, a 3rd year Statistics major at UCLA. I'm interested in gaining experience in running and analyzing experiments and applying causal inference techniques to drive important decisions in product and marketing. 
+Hi, I'm Kevin, a 4th year Statistics major at UCLA. I'm interested in gaining experience in designing and analyzing experiments and applying causal inference techniques to measure product launches and marketing campaigns. 
 
-Contact me at kevoinngo [at] ucla [dot] edu
+**Email:** kevoinngo [at] ucla [dot] edu
 
 ### Technical Skills
-**Tools:** Jupyter, VS Code, Git, Tableau, PowerBI, SAS, Excel  
-**Languages:** Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), R, SQL, SAS
+**Tools:** Snowflake, Databricks, Git, Tableau, PowerBI, SAS, Excel  
+**Languages:** Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), R, SQL
 
 ### Education 
-B.S., Statistics & Data Science | University of California, Los Angeles (June 2026)
+B.S. Statistics & Data Science | University of California, Los Angeles (June 2026)
 
 ### Work Experience  
+
+**Data Analyst Intern @ Capital One (Jun 2025 - Present)**
+- Services Data & Decisioning Team
+
+**Course Assistant for "The Science of Why: Causal Inference for Public Health" (Jun 2025 - Present)**
+- Develop and clarify key concepts for an undergraduate causal inference course for ~40 students
 
 **Undergraduate Research @ UCLA Fielding School of Public Health (March 2025 - Present)**
 - Built the first ever comprehensive dataset of 2M+ alcohol retailers around the U.S. to be used in a CDC-funded project evaluating the causal effect of the alcohol use on firearm violence
 - Reduced data cleaning time from 3 days to 1 hour per state by designing R scripts to process raw alcohol retailer data using regex expressions and dplyr
 - Mapped county-level disparities in income, education, and demographics using R to support causal research on whether policies restricting firearm access near alcohol-serving venues reduce gun violence
 
-**Data Science Intern @ Liberty Mutual Insurance (June 2024 - August 2024)**  
+**Data Analyst Intern @ Liberty Mutual Insurance (June 2024 - August 2024)**  
 - Influenced stakeholders to increase the sample size in future Safeco Insurance marketing experiments, ensuring 80% statistical power to reliably detect improvements in conversion rates
 - Evaluated an experiment launched to 100K customers that measured the effectiveness of various marketing tactics used in the Safeco Insurance Prospecting Program by analyzing key business metrics such as quote and conversion rates in Excel
 - Applied bootstrapping to generate 70% confidence intervals, improving the accuracy of estimated quote and conversion rates from a small sample size using Python
