@@ -12,14 +12,32 @@ B.S. Statistics & Data Science | University of California, Los Angeles (June 202
 
 ### Work Experience  
 
-<img src="/assets/capital_one_logo.png" alt="Capital One" style="height: 80px; vertical-align: middle; margin-left: 10px;"> **Data Analyst Intern @ Capital One (Jun 2025 - Present)** 
-- Control modernization for the Services Data Excellence Team
+<div style="display: flex; align-items: center; margin: 16px 0;">
+  <img src="assets/capital_one_logo.png" alt="Capital One" style="height: 45px; width: auto; margin-right: 12px; object-fit: contain;">
+  <div>
+    <strong>Data Analyst Intern @ Capital One</strong> (Jun 2025 - Present)
+    <br>
+    <em>Control modernization for the Services Data Excellence Team</em>
+  </div>
+</div>
 
-<img src="/assets/ucla_logo.jpg" alt="UCLA" style="height: 80px; vertical-align: middle; margin-left: 10px;"> **Undergraduate Research @ UCLA Fielding School of Public Health (March 2025 - Present)** 
-- Data cleaning and analysis for a CDC-funded project about the relationship between alcohol retail density and firearm violence
+<div style="display: flex; align-items: center; margin: 16px 0;">
+  <img src="assets/ucla_logo.jpg" alt="UCLA" style="height: 45px; width: auto; margin-right: 12px; object-fit: contain;">
+  <div>
+    <strong>Undergraduate Research @ UCLA Fielding School of Public Health</strong> (March 2025 - Present)
+    <br>
+    <em>Data cleaning and analysis for a CDC-funded project about the relationship between alcohol retail density and firearm violence</em>
+  </div>
+</div>
 
-<img src="/assets/liberty_mutual_logo.png" alt="Liberty Mutual" style="height: 80px; vertical-align: middle; margin-left: 10px;"> **Data Analyst Intern @ Liberty Mutual Insurance (June 2024 - August 2024)** 
-- Evaluating marketing experiments for the Advanced Analytics Team
+<div style="display: flex; align-items: center; margin: 16px 0;">
+  <img src="assets/liberty_mutual_logo.png" alt="Liberty Mutual" style="height: 45px; width: auto; margin-right: 12px; object-fit: contain;">
+  <div>
+    <strong>Data Analyst Intern @ Liberty Mutual Insurance</strong> (June 2024 - August 2024)
+    <br>
+    <em>Evaluating marketing experiments for the Advanced Analytics Team</em>
+  </div>
+</div>
 
 ### Projects  
 Please check out my [GitHub](https://github.com/) for more projects.
