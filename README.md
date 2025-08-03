@@ -17,7 +17,7 @@ B.S. Statistics & Data Science | University of California, Los Angeles (June 202
   <div>
     <strong>Data Analyst Intern @ Capital One</strong> (Jun 2025 - Present)
     <br>
-    • Controls modernization for the Services Data Excellence Team
+    • Modernized controls for the Services Data Excellence Team
   </div>
 </div>
 
@@ -26,7 +26,7 @@ B.S. Statistics & Data Science | University of California, Los Angeles (June 202
   <div>
     <strong>Undergraduate Research @ UCLA Fielding School of Public Health</strong> (March 2025 - Present)
     <br>
-    • Data cleaning and analysis for a CDC-funded project about the relationship between alcohol retail density and firearm violence
+    • Created and analyzed a comprehensive dataset of all the alcohol retailers (2M+) in each state for a CDC-funded project about the relationship between alcohol retail density and firearm violence
   </div>
 </div>
 
@@ -35,7 +35,7 @@ B.S. Statistics & Data Science | University of California, Los Angeles (June 202
   <div>
     <strong>Data Analyst Intern @ Liberty Mutual Insurance</strong> (June 2024 - August 2024)
     <br>
-    • Evaluating marketing experiments for the Advanced Analytics Team
+    • Evaluated marketing experiments for the Advanced Analytics Team
   </div>
 </div>
 
