@@ -12,18 +12,19 @@ B.S. Statistics & Data Science | University of California, Los Angeles (June 202
 
 ### Work Experience  
 
-<img src="/assets/capital_one_logo.png" alt="Capital One" style="height: 50px; vertical-align: middle; margin-left: 10px;"> **Data Analyst Intern @ Capital One (Jun 2025 - Present)** 
+<img src="/assets/capital_one_logo.png" alt="Capital One" style="height: 80px; vertical-align: middle; margin-left: 10px;"> **Data Analyst Intern @ Capital One (Jun 2025 - Present)** 
 - Control modernization for the Services Data Excellence Team
 
-<img src="/assets/ucla_logo.jpg" alt="UCLA" style="height: 50px; vertical-align: middle; margin-left: 10px;"> **Undergraduate Research @ UCLA Fielding School of Public Health (March 2025 - Present)** 
+<img src="/assets/ucla_logo.jpg" alt="UCLA" style="height: 80px; vertical-align: middle; margin-left: 10px;"> **Undergraduate Research @ UCLA Fielding School of Public Health (March 2025 - Present)** 
 - Data cleaning and analysis for a CDC-funded project about the relationship between alcohol retail density and firearm violence
 
-<img src="/assets/liberty_mutual_logo.png" alt="Liberty Mutual" style="height: 50px; vertical-align: middle; margin-left: 10px;"> **Data Analyst Intern @ Liberty Mutual Insurance (June 2024 - August 2024)** 
+<img src="/assets/liberty_mutual_logo.png" alt="Liberty Mutual" style="height: 80px; vertical-align: middle; margin-left: 10px;"> **Data Analyst Intern @ Liberty Mutual Insurance (June 2024 - August 2024)** 
 - Evaluating marketing experiments for the Advanced Analytics Team
 
 ### Projects  
 Please check out my [GitHub](https://github.com/) for more projects.
 
-**Causal Buddy** (Work in Progress)
+**Causal Buddy** (Work in Progress)  
+- A simulation tool that let's users build an intuition for experimentation and modern causal inference methods
 
 
