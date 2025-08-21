@@ -17,7 +17,7 @@ B.S. Statistics & Data Science | University of California, Los Angeles (June 202
   <div>
     <strong>Data Analyst Intern @ Capital One</strong> (Jun 2025 - Present)
     <br>
-    • Reduced retrieval time of historical credit bureau reports from minutes to seconds by onboarding a monitoring SQL script to an internal platform, improving report accessibility for audit teams and 10+ stakeholders
+    • Reduced retrieval time of historical credit bureau reports from minutes to seconds by onboarding a monitoring SQL script to an internal platform, improving report accessibility for stakeholders managing 60K+ daily customer cases
     <br>
     • Established an auditable, documented script review process, by registering the script to a governance platform, eliminating fragmented communication between the data analyst and credit bureau disputes teams
     <br>
