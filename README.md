@@ -54,7 +54,7 @@ B.S. Statistics & Data Science | University of California, Los Angeles (June 202
 ### Projects  
 Please check out my [GitHub](https://github.com/) for more projects.
 
-**Causal Buddy** (Work in Progress)  
-- A simulation tool that let's users build an intuition for experimentation and modern causal inference methods
+**[Causal Buddy](https://causal-buddy.streamlit.app/)** (First version out now!)  
+- There are many great causal inference resources out already, but they don't provide a quick-hands-on way for students to play around with data, which really helps build intuition about the methods. So I built a platform that allows users to play around with simulated data. Check it out now!
 
 
