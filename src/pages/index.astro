@@ -1,0 +1,70 @@
+---
+// This is the homepage - it uses the Layout and displays the Graph component
+import Layout from '../layouts/Layout.astro';
+import Graph from '../components/Graph.astro';
+---
+
+<Layout>
+	<Graph />
+	
+	<main class="home-content">
+		<p>Hey! I'm Kevin.</p>
+		
+		<p>I study statistics at UCLA (originally from San Jose).</p>
+		
+		<p>
+			While doing internships and taking classes, I found it so fascinating how I could leverage data to improve products I use everyday. I love the challenge of figuring out what is important to measure and how to rapidly test and make decisions using experimentation.
+		</p>
+		
+		<p>
+			Outside of school, I love playing badminton and (recently) teaching practical statistics.
+		</p>
+		
+		<p>
+			I've helped develop an undergraduate biostatistics course, and Causal Buddy, an interactive web app that helps users learn causal inference.
+		</p>
+		
+		<p>
+			In the future, I hope to run my own channel that shows the beauty and usefulness of stats :)
+		</p>
+		
+		<div class="photo-container">
+			<img src="/assets/my-photo.jpg" alt="Kevin Ngo" class="profile-photo" />
+		</div>
+
+		<p>
+		Reach out at: kevoinngo [at] ucla [dot] edu
+		</p>
+	</main>
+</Layout>
+
+<style>
+	.home-content {
+		line-height: 1.8;
+		color: black;
+		font-size: 24px;
+	}
+	
+	p {
+		margin-bottom: 16px;
+		max-width: 100%;
+	}
+	
+	.photo-container {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin-top: 40px;
+		padding-top: 20px;
+	}
+	
+	.profile-photo {
+		max-width: 100%;
+		height: auto;
+		max-height: 500px;
+		width: auto;
+		object-fit: contain;
+		border-radius: 8px;
+		border: 2px solid black;
+	}
+</style>

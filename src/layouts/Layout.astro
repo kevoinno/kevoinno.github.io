@@ -1,0 +1,28 @@
+---
+// This is the "setup" section - it runs before the HTML is generated
+import Navigation from '../components/Navigation.astro';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Kevin Ngo</title>
+	</head>
+	<body>
+		<Navigation />
+		<slot />
+	</body>
+</html>
+
+<style>
+	body {
+		margin: 0;
+		padding: 20px;
+		max-width: 800px;
+		margin: 0 auto;
+		background-color: white;
+	}
+</style>
