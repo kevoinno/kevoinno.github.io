@@ -7,15 +7,19 @@ import Layout from '../layouts/Layout.astro';
 	<main class="projects-content">
 		
 		<div class="project-item">
-			<h2><a href="https://causal-buddy.streamlit.app/" target="_blank" rel="noopener noreferrer">Causal Buddy</a></h2>
-			<p class="project-status">First version out now!</p>
-			<p>There are many great causal inference resources out already, but they don't provide a quick-hands-on way for students to play around with data, which really helps build intuition about the methods. So I built a platform that allows users to play around with simulated data. Check it out now!</p>
+			<img src="/assets/Causal_Buddy.png" alt="Causal Buddy preview" class="project-image" />
+			<div class="project-details">
+				<h2><a href="https://causal-buddy.streamlit.app/" target="_blank" rel="noopener noreferrer">Causal Buddy</a></h2>
+				<p>There are many great causal inference resources out already, but they don't provide a quick-hands-on way for students to play around with data, which really helps build intuition about the methods. So I built a platform that allows users to play around with simulated data. Check it out now!</p>
+			</div>
 		</div>
 
 		<div class="project-item">
-			<h2><a href="https://kevoinno.github.io/CUPED/" target="_blank" rel="noopener noreferrer">CUPED Simulator</a></h2>
-			<p class="project-status">First version out now!</p>
-      <p>This simulation tool helps PMs and data scientists build an intuition about how CUPED can reduce the time it takes to complete an A/B tests by several days.</p>
+			<img src="/assets/CUPED.png" alt="CUPED Simulator preview" class="project-image" />
+			<div class="project-details">
+				<h2><a href="https://kevoinno.github.io/CUPED/" target="_blank" rel="noopener noreferrer">CUPED Simulator</a></h2>
+				<p>This simulation tool helps PMs and data scientists build an intuition about how CUPED can reduce the time it takes to complete an A/B tests by several days.</p>
+			</div>
 		</div>
 
         <p>Please check out my <a href="https://github.com/kevoinno" target="_blank" rel="noopener noreferrer">GitHub</a> for more projects.</p>
@@ -29,40 +33,43 @@ import Layout from '../layouts/Layout.astro';
 		font-size: 24px;
 	}
 	
-	h1 {
-		font-size: 32px;
-		margin-bottom: 30px;
-		font-weight: 700;
-	}
-	
 	.project-item {
-		margin-bottom: 40px;
+		display: flex;
+		align-items: center;
+		gap: 20px;
+		border: 2px solid black;
+		border-radius: 8px;
+		padding: 20px;
+		margin-bottom: 30px;
 	}
-	
+
+	.project-image {
+		width: 260px;
+		height: 200px;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
+
+	.project-details {
+		flex: 1;
+	}
+
 	.project-item h2 {
 		font-size: 24px;
 		margin: 0 0 8px 0;
 		font-weight: 700;
 	}
-	
+
 	.project-item h2 a {
 		color: black;
-		text-decoration: none;
+		text-decoration: underline;
 		transition: color 0.2s;
 	}
-	
+
 	.project-item h2 a:hover {
 		color: #555;
-		text-decoration: underline;
 	}
-	
-	.project-status {
-		margin: 0 0 12px 0;
-		font-size: 14px;
-		color: #555;
-		font-style: italic;
-	}
-	
+
 	.projects-content p {
 		margin-bottom: 16px;
 		font-size: 18px;
