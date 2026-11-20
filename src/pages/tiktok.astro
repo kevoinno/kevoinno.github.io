@@ -1,0 +1,40 @@
+---
+// TikTok page - embeds the @statswkev creator profile (recent videos update automatically)
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout>
+	<main class="tiktok-content">
+		<div class="embed-container">
+			<!-- TikTok's creator embed page: shows the profile + recent videos and updates automatically when new videos are posted -->
+			<iframe
+				src="https://www.tiktok.com/embed/@statswkev"
+				title="@statswkev on TikTok"
+				class="tiktok-frame"
+				allow="encrypted-media; fullscreen; picture-in-picture"
+			></iframe>
+		</div>
+	</main>
+</Layout>
+
+<style>
+	.embed-container {
+		display: flex;
+		justify-content: center;
+	}
+
+	.tiktok-frame {
+		width: 100%;
+		max-width: 780px;
+		height: 460px;
+		border: 2px solid black;
+		border-radius: 8px;
+	}
+
+	/* The embed's content is shorter on narrow screens, so trim the empty space */
+	@media (max-width: 480px) {
+		.tiktok-frame {
+			height: 380px;
+		}
+	}
+</style>
