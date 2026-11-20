@@ -6,13 +6,22 @@
 	<a href="/">Home</a>
 	<a href="/experience">Experience</a>
 	<a href="/projects">Projects</a>
+	<a href="/tiktok">TikTok</a>
 </nav>
 
 <style>
 	nav {
 		display: flex;
-		gap: 30px;
+		flex-wrap: wrap;
+		gap: 12px 30px;
 		padding: 20px 0;
+	}
+
+	/* Tighter spacing on phones so all 4 links fit on one line */
+	@media (max-width: 480px) {
+		nav {
+			gap: 12px 20px;
+		}
 	}
 
 	nav a {
