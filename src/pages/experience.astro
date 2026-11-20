@@ -67,6 +67,8 @@ import Layout from '../layouts/Layout.astro';
 	
 	.experience-details {
 		flex: 1;
+		/* Avoid leaving a single word alone on the last line of a wrapped sentence */
+		text-wrap: pretty;
 	}
 	
 	.experience-details h2 {
